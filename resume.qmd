@@ -1,6 +1,0 @@
----
-title: "Resume"
-editor: visual
-page-layout: full
-title-block-banner: true
----
