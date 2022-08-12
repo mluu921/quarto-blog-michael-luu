@@ -6,6 +6,8 @@ website:
   navbar:
     right:
       - blog.qmd
+      - resume.qmd
+      - projects.qmd
       - icon: github
         href: https://github.com/mluu921
 
@@ -15,4 +17,3 @@ format:
     css: styles.css
 
 editor: visual
-
