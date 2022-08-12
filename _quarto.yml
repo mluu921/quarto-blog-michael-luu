@@ -7,9 +7,8 @@ website:
     right:
       - blog.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/mluu921
+
 format:
   html:
     theme: litera
