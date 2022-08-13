@@ -14,6 +14,13 @@
     "text": "Experience\n\nResearch Biostatistician II\nCedars-Sinai Samuel Oschin Comprehensive Cancer Center\nNov 2016 – Present\n\n\nResearch Biostatistician I\nChildren’s Hospital Los Angles, Anesthesia Critical Care Medicine\nMar 2016 – Nov 2016\n\n\nQuality Improvement Analyst\nChildren’s Hospital Los Angles, Neonatology\nJul 2015 – Nov 2016"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A web based online interactive calculator built on top of the R Shiny framework. This web application implements the enteral feeding algorithm developed internally by the quality improvement team of neonatologist and nurses at CHLA by simplifying the necessity for manual calculation, and by providing an interactive environment for custom parameters and report generation. This web application has been implemented and is in currently in clinical use at Children's Hospital Los Angeles, LAC/USC Medical Center, and Hollywood Presbyterian Medical Center"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
