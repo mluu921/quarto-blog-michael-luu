@@ -3,6 +3,8 @@ title: "Projects"
 toc: true
 ---
 
+Last Updated: `r format(Sys.Date(), '%B %d, %Y')`
+
 # CHLA/USC Division of Neonatology Feeding Calculator
 
 [![](media/shiny-feeding-calc-image.jpg)](https://nicu.shinyapps.io/feedingcalc/)
