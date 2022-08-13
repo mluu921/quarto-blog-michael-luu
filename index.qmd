@@ -12,4 +12,24 @@ about:
       href: https://github.com/mluu921
 ---
 
-About this blog
+# Education
+
+### MPH in Biostatistics & Epidemiology, 2015 
+University of Southern California, Keck School of Medicine
+
+### BSc in Biological Sciences, 2009
+University of California, Irvine
+
+# Experience
+
+### Research Biostatistician II
+| Cedars-Sinai Samuel Oschin Comprehensive Cancer Center
+| Nov 2016 – Present
+
+### Research Biostatistician I
+| Children’s Hospital Los Angles, Anesthesia Critical Care Medicine
+| Mar 2016 – Nov 2016
+
+### Quality Improvement Analyst
+| Children’s Hospital Los Angles, Neonatology
+| Jul 2015 – Nov 2016
