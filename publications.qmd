@@ -1,0 +1,14 @@
+---
+title: "Publications"
+bibliography: pmid-publications.bib
+csl: apa-cv.csl
+nocite: |
+  @*
+editor_options: 
+  chunk_output_type: console
+---
+
+Last Updated: `r format(Sys.Date(), '%B %d, %Y')`
+
+::: {#refs}
+:::
